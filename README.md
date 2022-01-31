@@ -1,5 +1,4 @@
 # Python Patterns Snippets
-### pattern
 ```python
 r = int(input('enter rows :'))
 for i in range(r):
@@ -16,7 +15,6 @@ for i in range(r):
 *****
 ```
 #
-### pattern
 ```python
 r = int(input('enter rows :'))
 for i in range(r):
@@ -33,7 +31,6 @@ for i in range(r):
 *****
 ```
 #
-### pattern
 ```python
 r = int(input('enter rows :'))
 for i in range(r, 0, -1):
@@ -50,7 +47,6 @@ for i in range(r, 0, -1):
 *
 ```
 #
-### pattern
 ```python
 r = int(input('enter rows :'))
 for i in range(1, r+1):
@@ -70,7 +66,6 @@ for i in range(1, r+1):
  *****
 ```
 #
-### pattern
 ```python
 r = int(input('enter rows :'))
 for i in range(1, r+1):
@@ -90,7 +85,6 @@ for i in range(1, r+1):
     *
 ```
 #
-### pattern
 ```python
 r = int(input('enter rows :'))
 for i in range(1, r+1):
@@ -110,7 +104,6 @@ for i in range(1, r+1):
  *********
 ```
 #
-### pattern
 ```python
 r = int(input('enter rows :'))
 for i in range(1, r+1):
@@ -130,7 +123,6 @@ for i in range(1, r+1):
     *
 ```
 #
-### pattern
 ```python
 r = int(input('enter rows :'))
 for i in range(r):
@@ -147,7 +139,6 @@ for i in range(r):
 * * * * * 
 ```
 #
-### pattern
 ```python
 r = int(input('enter rows :'))
 for i in range(r, 0, -1):
@@ -164,7 +155,6 @@ for i in range(r, 0, -1):
 * 
 ```
 #
-### pattern
 ```python
 r = int(input('enter rows :'))
 for i in range(1, r+1):
@@ -184,7 +174,6 @@ for i in range(1, r+1):
   * * * * * 
 ```
 #
-### pattern
 ```python
 r = int(input('enter rows :'))
 for i in range(1, r+1):
@@ -205,7 +194,6 @@ for i in range(1, r+1):
          * 
 ```
 #
-### pattern
 ```python
 r = int(input('enter rows :'))
 for i in range(1, r+1):
@@ -225,7 +213,6 @@ for i in range(1, r+1):
  * * * * * 
 ```
 #
-### pattern
 ```python
 r = int(input('enter rows :'))
 for i in range(1, r+1):
@@ -245,7 +232,6 @@ for i in range(1, r+1):
     *
 ```
 #
-### pattern
 ```python
 r = 5
 for i in range(1, r+1):
@@ -262,7 +248,6 @@ for i in range(1, r+1):
 55555
 ```
 #
-### pattern
 ```python
 r = 5
 for i in range(1, r+1):
@@ -279,7 +264,6 @@ for i in range(1, r+1):
 12345
 ```
 #
-### pattern
 ```python
 r = 5
 for i in range(1, r+1):
@@ -296,7 +280,6 @@ for i in range(1, r+1):
 12345
 ```
 #
-### pattern
 ```python
 r = 5
 x = r
@@ -317,7 +300,6 @@ for i in range(1, r+1):
  123456789
 ```
 #
-### pattern
 ```python
 c = 65
 r = 5
@@ -337,7 +319,6 @@ EEEEE
 ```
 #
 
-### pyramid
 ```python 
 c = 65
 r = 5
@@ -357,8 +338,7 @@ KLMNO
 ```
 #
 
-# Hollow  Pyramids 
-### Pattern
+# Hollow  Patterns 
 ```python 
 r = int(input('enter rows :'))
 for i in range(r):
@@ -381,7 +361,6 @@ for i in range(r):
 #
 
 
-### pattern 
 ```python 
 r = int(input('enter rows :'))
 for i in range(r):
@@ -404,7 +383,6 @@ for i in range(r):
 #
 
 
-### pattern 
 ```python 
 r = int(input('enter rows :'))
 for i in range(r, 0, -1):
@@ -426,7 +404,6 @@ for i in range(r, 0, -1):
 #
 
 
-### pattern 
 ```python 
 r = int(input('enter rows :'))
 z = r
@@ -453,7 +430,6 @@ for i in range(1, r+1):
 #
 
 
-### pattern 
 ```python 
 r = int(input('enter rows :'))
 z = r
@@ -479,7 +455,6 @@ for i in range(1, r+1):
 #
 
 
-### pattern 
 ```python 
 r = int(input('enter rows :'))
 z = r
@@ -505,7 +480,6 @@ for i in range(1, r+1):
 #
 
 
-### pattern 
 ```python 
 r = int(input('enter rows :'))
 x = r
@@ -531,7 +505,6 @@ for i in range(1, r+1):
 #
 
 
-### pattern 
 ```python 
 r = 5
 for i in range(1, r+1):
@@ -553,7 +526,6 @@ for i in range(1, r+1):
 #
 
 
-### pattern 
 ```python 
 r = 5
 for i in range(1, r+1):
@@ -575,7 +547,6 @@ for i in range(1, r+1):
 #
 
 
-### pattern 
 ```python 
 r = 5
 for i in range(1, r+1):
@@ -597,7 +568,6 @@ for i in range(1, r+1):
 ```
 #
 
-### pattern
 ```python 
 r = 5
 x = r
@@ -622,7 +592,6 @@ for i in range(1, r+1):
  123456789
 ```
 #
-### pattern
 ```python 
 c = 65
 r = 5
@@ -646,7 +615,6 @@ D  D
 EEEEE
 ```
 #
-### pattern
 ```python 
 c = 65
 r = 5
