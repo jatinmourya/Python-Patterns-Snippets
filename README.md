@@ -6,7 +6,6 @@ for i in range(r):
         print('*', end='')
     print()
 ```
-### output
 ```
 *****
 *****
@@ -22,7 +21,6 @@ for i in range(r):
         print('*', end='')
     print()
 ```
-### output
 ```
 *
 **
@@ -38,7 +36,6 @@ for i in range(r, 0, -1):
         print('*', end='')
     print()
 ```
-### output
 ```
 *****
 ****
@@ -57,7 +54,6 @@ for i in range(1, r+1):
         print('*', end='')
     print()
 ```
-### output
 ```
      *
     **
@@ -76,7 +72,6 @@ for i in range(1, r+1):
     r -= 1
     print()
 ```
-### output
 ```
 *****
  ****
@@ -95,7 +90,6 @@ for i in range(1, r+1):
         print('*', end='')
     print()
 ```
-### output
 ```
      *
     ***
@@ -114,7 +108,6 @@ for i in range(1, r+1):
     r -= 1
     print()
 ```
-### output
 ```
 *********
  *******
@@ -130,7 +123,6 @@ for i in range(r):
         print('*', end=' ')
     print()
 ```
-### output
 ```
 * 
 * * 
@@ -146,7 +138,6 @@ for i in range(r, 0, -1):
         print('*', end=' ')
     print()
 ```
-### output
 ```
 * * * * * 
 * * * * 
@@ -165,7 +156,6 @@ for i in range(1, r+1):
         print('*', end=' ')
     print()
 ```
-### output
 ```
           * 
         * * 
@@ -185,7 +175,6 @@ for i in range(1, r+1):
     print()
 
 ```
-### output
 ```
  * * * * * 
    * * * * 
@@ -204,7 +193,6 @@ for i in range(1, r+1):
         print('*', end=' ')
     print()
 ```
-### output
 ```
      * 
     * * 
@@ -223,7 +211,6 @@ for i in range(1, r+1):
     r -= 1
     print()
 ```
-### output
 ```
 * * * * * 
  * * * * 
@@ -241,7 +228,6 @@ for i in range(1, r+1):
         print(i, end='')
     print()
 ```
-### output
 ```
 11111
 22222
@@ -257,7 +243,6 @@ for i in range(1, r+1):
         print(j, end='')
     print()
 ```
-### output
 ```
 12345
 12345
@@ -273,7 +258,6 @@ for i in range(1, r+1):
         print(j, end='')
     print()
 ```
-### output
 ```
 1
 12
@@ -293,7 +277,6 @@ for i in range(1, r+1):
         print(j, end='')
     print()
 ```
-### output
 ```
      1
     123
@@ -312,7 +295,6 @@ for i in range(1, r+1):
     print()
     c += 1
 ```
-### output
 ```
 A
 BB
@@ -331,7 +313,6 @@ for i in range(1, r+1):
         c += 1
     print()
 ```
-### output 
 ```
 A
 BC
@@ -353,7 +334,6 @@ for i in range(r):
     print()
 
 ```
-### output 
 ```
 *****
 *   *
@@ -375,7 +355,6 @@ for i in range(r):
     print()
 
 ```
-### output 
 ```
 *
 **
@@ -396,7 +375,6 @@ for i in range(r, 0, -1):
             print(' ', end='')
     print()
 ```
-### output 
 ```
 *****
 *  *
@@ -422,7 +400,6 @@ for i in range(1, r+1):
     print()
 
 ```
-### output 
 ```
      *
     **
@@ -447,7 +424,6 @@ for i in range(1, r+1):
     z -= 1
     print()
 ```
-### output 
 ```
 *****
  *  *
@@ -472,7 +448,6 @@ for i in range(1, r+1):
             print(' ', end='')
     print()
 ```
-### output 
 ```
      *
     * *
@@ -497,7 +472,6 @@ for i in range(1, r+1):
     x -= 1
     print()
 ```
-### output 
 ```
 *********
  *     *
@@ -518,7 +492,6 @@ for i in range(1, r+1):
             print(' ', end='')
     print()
 ```
-### output 
 ```
 12345
 1   5
@@ -539,7 +512,6 @@ for i in range(1, r+1):
             print(' ', end='')
     print()
 ```
-### output 
 ```
 11111
 2   2
@@ -561,7 +533,6 @@ for i in range(1, r+1):
     print()
 
 ```
-### output 
 ```
 1
 12
@@ -586,7 +557,6 @@ for i in range(1, r+1):
     print()
 ```
 
-### output
 ```
      1
     1 3
@@ -610,7 +580,6 @@ for i in range(1, r+1):
 
 ```
 
-### output
 ```
 A
 BB
@@ -632,7 +601,6 @@ for i in range(1, r+1):
     print()
 ```
 
-### output
 ```
 A
 BC
