@@ -1,4 +1,4 @@
-# Python Patterns Snippets
+# Python Pyramid, Hollow, Numeric, Alphabetic Patterns Snippet codes 
 ```python
 r = int(input('enter rows :'))
 for i in range(r):
@@ -232,6 +232,8 @@ for i in range(1, r+1):
     *
 ```
 #
+# Numeric patterns
+
 ```python
 r = 5
 for i in range(1, r+1):
@@ -300,6 +302,7 @@ for i in range(1, r+1):
  123456789
 ```
 #
+# Alphabetic Patterns 
 ```python
 c = 65
 r = 5
@@ -504,7 +507,7 @@ for i in range(1, r+1):
 ```
 #
 
-
+# Hollow Numeric pattern
 ```python 
 r = 5
 for i in range(1, r+1):
@@ -592,6 +595,7 @@ for i in range(1, r+1):
  123456789
 ```
 #
+# Hollow Alphabetic pattern
 ```python 
 c = 65
 r = 5
