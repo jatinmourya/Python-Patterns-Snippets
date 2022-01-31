@@ -1,4 +1,4 @@
-# Python Pyramid Snippets
+# Python Patterns Snippets
 There are different types of useful Pyramid snippets below
 #
 ### pattern
