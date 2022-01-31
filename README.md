@@ -1,5 +1,5 @@
 # Python Patterns Snippets
-There are different types of useful Pyramid snippets below
+There are different types of useful Patterns snippets below
 #
 ### pattern
 ```python
