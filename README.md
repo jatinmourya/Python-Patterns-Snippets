@@ -1,6 +1,4 @@
 # Python Patterns Snippets
-There are different types of useful Patterns snippets below
-#
 ### pattern
 ```python
 r = int(input('enter rows :'))
