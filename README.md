@@ -13,7 +13,6 @@ for i in range(r):
 *****
 *****
 ```
-#
 ```python
 r = int(input('enter rows :'))
 for i in range(r):
@@ -28,7 +27,6 @@ for i in range(r):
 ****
 *****
 ```
-#
 ```python
 r = int(input('enter rows :'))
 for i in range(r, 0, -1):
@@ -43,7 +41,6 @@ for i in range(r, 0, -1):
 **
 *
 ```
-#
 ```python
 r = int(input('enter rows :'))
 for i in range(1, r+1):
@@ -61,7 +58,6 @@ for i in range(1, r+1):
   ****
  *****
 ```
-#
 ```python
 r = int(input('enter rows :'))
 for i in range(1, r+1):
@@ -79,7 +75,6 @@ for i in range(1, r+1):
    **
     *
 ```
-#
 ```python
 r = int(input('enter rows :'))
 for i in range(1, r+1):
@@ -97,7 +92,6 @@ for i in range(1, r+1):
   *******
  *********
 ```
-#
 ```python
 r = int(input('enter rows :'))
 for i in range(1, r+1):
@@ -115,7 +109,6 @@ for i in range(1, r+1):
    ***
     *
 ```
-#
 ```python
 r = int(input('enter rows :'))
 for i in range(r):
@@ -130,7 +123,6 @@ for i in range(r):
 * * * * 
 * * * * * 
 ```
-#
 ```python
 r = int(input('enter rows :'))
 for i in range(r, 0, -1):
@@ -145,7 +137,6 @@ for i in range(r, 0, -1):
 * * 
 * 
 ```
-#
 ```python
 r = int(input('enter rows :'))
 for i in range(1, r+1):
@@ -163,7 +154,6 @@ for i in range(1, r+1):
     * * * * 
   * * * * * 
 ```
-#
 ```python
 r = int(input('enter rows :'))
 for i in range(1, r+1):
@@ -182,7 +172,6 @@ for i in range(1, r+1):
        * * 
          * 
 ```
-#
 ```python
 r = int(input('enter rows :'))
 for i in range(1, r+1):
@@ -200,7 +189,6 @@ for i in range(1, r+1):
   * * * * 
  * * * * * 
 ```
-#
 ```python
 r = int(input('enter rows :'))
 for i in range(1, r+1):
@@ -218,9 +206,7 @@ for i in range(1, r+1):
    * * 
     *
 ```
-#
 # Numeric patterns
-
 ```python
 r = 5
 for i in range(1, r+1):
@@ -235,7 +221,6 @@ for i in range(1, r+1):
 44444
 55555
 ```
-#
 ```python
 r = 5
 for i in range(1, r+1):
@@ -250,7 +235,6 @@ for i in range(1, r+1):
 12345
 12345
 ```
-#
 ```python
 r = 5
 for i in range(1, r+1):
@@ -265,7 +249,6 @@ for i in range(1, r+1):
 1234
 12345
 ```
-#
 ```python
 r = 5
 x = r
@@ -284,7 +267,6 @@ for i in range(1, r+1):
   1234567
  123456789
 ```
-#
 # Alphabetic Patterns 
 ```python
 c = 65
@@ -302,8 +284,6 @@ CCC
 DDDD
 EEEEE
 ```
-#
-
 ```python 
 c = 65
 r = 5
@@ -320,8 +300,6 @@ DEF
 GHIJ
 KLMNO
 ```
-#
-
 # Hollow  Patterns 
 ```python 
 r = int(input('enter rows :'))
@@ -341,9 +319,6 @@ for i in range(r):
 *   *
 *****
 ```
-#
-
-
 ```python 
 r = int(input('enter rows :'))
 for i in range(r):
@@ -362,9 +337,6 @@ for i in range(r):
 *  *
 *****
 ```
-#
-
-
 ```python 
 r = int(input('enter rows :'))
 for i in range(r, 0, -1):
@@ -382,9 +354,6 @@ for i in range(r, 0, -1):
 **
 *
 ```
-#
-
-
 ```python 
 r = int(input('enter rows :'))
 z = r
@@ -407,9 +376,6 @@ for i in range(1, r+1):
   *  *
  *****
 ```
-#
-
-
 ```python 
 r = int(input('enter rows :'))
 z = r
@@ -431,9 +397,6 @@ for i in range(1, r+1):
    **
     *
 ```
-#
-
-
 ```python 
 r = int(input('enter rows :'))
 z = r
@@ -455,9 +418,6 @@ for i in range(1, r+1):
   *     *
  *********
 ```
-#
-
-
 ```python 
 r = int(input('enter rows :'))
 x = r
@@ -479,8 +439,6 @@ for i in range(1, r+1):
    * *
     *
 ```
-#
-
 # Hollow Numeric pattern
 ```python 
 r = 5
@@ -499,9 +457,6 @@ for i in range(1, r+1):
 1   5
 12345
 ```
-#
-
-
 ```python 
 r = 5
 for i in range(1, r+1):
@@ -519,10 +474,7 @@ for i in range(1, r+1):
 4   4
 55555
 ```
-#
-
-
-```python 
+```python
 r = 5
 for i in range(1, r+1):
     for j in range(1, i+1):
@@ -540,8 +492,6 @@ for i in range(1, r+1):
 1  4
 12345
 ```
-#
-
 ```python 
 r = 5
 x = r
@@ -556,7 +506,6 @@ for i in range(1, r+1):
             print(' ', end='')
     print()
 ```
-
 ```
      1
     1 3
@@ -564,7 +513,6 @@ for i in range(1, r+1):
   1     7
  123456789
 ```
-#
 # Hollow Alphabetic pattern
 ```python 
 c = 65
@@ -579,7 +527,6 @@ for i in range(1, r+1):
     c += 1
 
 ```
-
 ```
 A
 BB
@@ -587,7 +534,6 @@ C C
 D  D
 EEEEE
 ```
-#
 ```python 
 c = 65
 r = 5
@@ -600,7 +546,6 @@ for i in range(1, r+1):
         c += 1
     print()
 ```
-
 ```
 A
 BC
@@ -608,4 +553,3 @@ D F
 G  J
 KLMNO
 ```
-#
